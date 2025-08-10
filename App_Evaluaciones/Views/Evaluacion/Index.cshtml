@@ -1,0 +1,29 @@
+﻿@model EvaluacionView
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card text-center">
+  <div class="card-header" style="background:#212529;color:azure" >
+    Datos del Evaluado
+  </div>
+  <div class="card-body text-start" >
+    <strong>Nombre:</strong>
+    <p class="title01"> @Model.Evaluado.Nombre</p>
+    <strong>Proceso: </strong>
+    <p class="title01">@Model.Evaluado.Proceso</p>
+    <strong>Cargo: </strong>
+    <p class="title01">@Model.Evaluado.Cargo</p>
+    <strong>Parque: </strong>
+    <p class="title01">@Model.Evaluado.Parque</p>
+  </div>
+  <div class="card-footer text-body-secondary" style="background:#212529;color:azure">
+    Formulario de Evaluación
+  </div>
+   <div class="card-body text-start" >
+       @foreach (var Pregunta in Model.Preguntas)
+       {
+           <p>@Pregunta.PreguntaName</p>
+       }
+   </div>
+</div>

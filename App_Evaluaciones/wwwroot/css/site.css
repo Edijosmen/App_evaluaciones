@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #F9FAFB
+}
+.hover-effect:hover {
+    background-color: rgba(134, 27, 45, 0.2);
+}
+.cardmy{
+    border-radius: 12px;
+}
+    .cardmy:hover {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 12px; /* tu borde personalizado */
+        transform: translateY(-4px); /* levanta el card un poco */
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25); /* sombra inferior bonita */
+    }
+
+.title01 {
+    font-family: Consolas;
+    font-style: oblique;
+}

@@ -1,0 +1,75 @@
+﻿@model Usuario
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="row">
+    <div class="col-10 offset-1 col-sm-6 offset-sm-6 mx-auto" >
+        <div class="card mb-3" style="max-width: 640px;">
+            <div class="row g-0">
+                <div class="col-md-4 text-center align-content-center">
+                    <img src="~/Img/user.png" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body ">
+                        <h5 class="card-title">@Model.Nombre</h5>
+                        <p class="card-text mb-1"><strong>Cedula: </strong>@Model.Cedula </p>
+                         <p class="card-text  mb-1"><strong>Parque: </strong>@Model.Parque </p>
+                          <p class="card-text  mb-1"><strong>Cargo: </strong>@Model.Cargo </p>
+                           <p class="card-text  mb-1"><strong>Grupo: </strong>@Model.Grupo </p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@foreach (var Eva in @Model.Evalaciones)
+{
+
+    <div class="card cardmy">
+        <div class="card-body">
+            <p class="text-end">Fecha Limite: <i class="bi bi-calendar-week-fill">  @Eva.FCierre</i></p>
+            <h5 class="card-title">@Eva.Nombre</h5>
+            <p class="card-text ">@Eva.Descripcion</p>
+            <div class="d-flex gap-4 align-items-center">
+                <h6>Total <span class="badge text-bg-dark bg-dark">@Eva.Evaluados.Count()</span></h6>
+                <h6>Pendientes <span class="badge text-bg-danger bg-danger">New</span></h6>
+            </div>
+            <br>
+            <a class="btn btn-outline-dark" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                Ver Detalle
+            </a>
+            <div class="collapse" id="collapseExample">
+                <div class="card card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Cargo</th>
+                                <th scope="col">Grupo</th>
+                                <th scope="col">Handle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var Evaluado in Eva.Evaluados)
+                            {
+                                <tr>                                    
+                                    <td>@Evaluado.Nombre</td>
+                                    <td>@Evaluado.Cargo</td>
+                                    <td>@Evaluado.Grupo</td>
+                                    <td><a type="button" class="btn btn-outline-dark" asp-action="Index" asp-controller="Evaluacion" asp-route-IdEva="@Eva.EvaluacionId" asp-route-IdUser="@Evaluado.UserId">Abrir</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+}
+
+
