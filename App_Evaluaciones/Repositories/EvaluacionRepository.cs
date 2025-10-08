@@ -1,5 +1,6 @@
 ﻿using App_Evaluaciones.DbConection;
 using App_Evaluaciones.Models;
+using App_Evaluaciones.Models.Dto;
 using App_Evaluaciones.Repositories.Interfaces;
 using MySqlConnector;
 
@@ -13,16 +14,16 @@ namespace App_Evaluaciones.Repositories
             _dbContext = db;
         }
 
-        public async Task<List<Evaluacion>> GetAll_Evaluacion()
+        public async Task<List<EvaluacionDto>> GetAll_Evaluacion()
         {
-            List<Evaluacion> list_evaluacion = new List<Evaluacion>();
+            List<EvaluacionDto> list_evaluacion = new List<EvaluacionDto>();
             using var connection = _dbContext.GetConnection();
             string sql = "SELECT * FROM evaluacion";
             MySqlCommand Command = new MySqlCommand(sql, connection);
             MySqlDataReader rs = Command.ExecuteReader();
             while (rs.Read())
             {
-                Evaluacion rs_evaluacion = new Evaluacion
+                EvaluacionDto rs_evaluacion = new EvaluacionDto
                 {
                     EvaluacionId = rs.GetInt16("evaluacionId"),
                     Descripcion= rs.GetString("descripcion"),

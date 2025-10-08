@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\controllers\\evaluacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\controllers\\evaluacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\views\\evaluacion\\crearevaluacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\views\\evaluacion\\crearevaluacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\dto\\evaluacioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\dto\\evaluacioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\dto\\evaluaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\dto\\evaluaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\controllers\\preguntacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\controllers\\preguntacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\views\\evaluacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\views\\evaluacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\evaluado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\evaluado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\evaluacionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\evaluacionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\repositories\\interfaces\\ievaluacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\repositories\\interfaces\\ievaluacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\models\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\models\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|d:\\developer\\-net\\playland\\app_evaluaciones\\app_evaluaciones\\repositories\\interfaces\\iasignacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2300343B-1697-4DF0-96DF-A896848B9F88}|App_Evaluaciones\\App_Evaluaciones.csproj|solutionrelative:app_evaluaciones\\repositories\\interfaces\\iasignacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 826,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvaluacionCreateDto.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Dto\\EvaluacionCreateDto.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Dto\\EvaluacionCreateDto.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Dto\\EvaluacionCreateDto.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Dto\\EvaluacionCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:53:16.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearEvaluacion.cshtml",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Evaluacion\\CrearEvaluacion.cshtml",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Views\\Evaluacion\\CrearEvaluacion.cshtml",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Evaluacion\\CrearEvaluacion.cshtml",
+              "RelativeToolTip": "App_Evaluaciones\\Views\\Evaluacion\\CrearEvaluacion.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T03:07:13.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Evaluacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Views\\Evaluacion\\Index.cshtml",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Evaluacion\\Index.cshtml",
+              "RelativeToolTip": "App_Evaluaciones\\Views\\Evaluacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T00:50:02.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App_Evaluaciones\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T00:50:03.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvaluacionController.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\EvaluacionController.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Controllers\\EvaluacionController.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\EvaluacionController.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Controllers\\EvaluacionController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvaluacionDto.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Dto\\EvaluacionDto.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Dto\\EvaluacionDto.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Dto\\EvaluacionDto.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Dto\\EvaluacionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App_Evaluaciones\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T00:50:03.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PreguntaController.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\PreguntaController.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Controllers\\PreguntaController.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\PreguntaController.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Controllers\\PreguntaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T00:54:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evaluacion.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Evaluacion.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Evaluacion.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Evaluacion.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Evaluacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:36:33.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pregunta.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Pregunta.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Pregunta.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Pregunta.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Pregunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "App_Evaluaciones\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T02:49:52.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evaluado.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Evaluado.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Evaluado.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Evaluado.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Evaluado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EvaluacionView.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\EvaluacionView.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\EvaluacionView.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\EvaluacionView.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\EvaluacionView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Usuario.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\appsettings.json",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\appsettings.json",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\appsettings.json",
+              "RelativeToolTip": "App_Evaluaciones\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T02:11:58.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "App_Evaluaciones\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBcwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-05T00:50:03.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Program.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Program.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Program.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEvaluacionRepository.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\Interfaces\\IEvaluacionRepository.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Repositories\\Interfaces\\IEvaluacionRepository.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\Interfaces\\IEvaluacionRepository.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Repositories\\Interfaces\\IEvaluacionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "App_Evaluaciones\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBMwA8AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T00:50:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAsignacionRepository.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\Interfaces\\IAsignacionRepository.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Repositories\\Interfaces\\IAsignacionRepository.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Repositories\\Interfaces\\IAsignacionRepository.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Repositories\\Interfaces\\IAsignacionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Asignacion.cs",
+              "DocumentMoniker": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Asignacion.cs",
+              "RelativeDocumentMoniker": "App_Evaluaciones\\Models\\Asignacion.cs",
+              "ToolTip": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\Models\\Asignacion.cs",
+              "RelativeToolTip": "App_Evaluaciones\\Models\\Asignacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:50:03.046Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 360,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

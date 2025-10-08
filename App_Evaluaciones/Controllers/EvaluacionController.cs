@@ -1,4 +1,5 @@
 ﻿using App_Evaluaciones.Models;
+using App_Evaluaciones.Models.Dto;
 using App_Evaluaciones.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -35,6 +36,23 @@ namespace App_Evaluaciones.Controllers
         {
             var preguntas = _evaluacionRepository.GetAll_Preguntas(IdEva);
             return View();
+        }
+       
+        public async Task<IActionResult> CrearEvaluacion()
+        {
+            // Si el modelo no es válido, devolver la vista con los datos actuales
+            return View();
+        }
+        [HttpPost]
+        public IActionResult CrearEvaluacion(EvaluacionCreateDto model)
+        {
+            if (ModelState.IsValid)
+            {
+                // Guardar en base de datos
+                // ...
+                return RedirectToAction("Index");
+            }
+            return View(model);
         }
     }
 }

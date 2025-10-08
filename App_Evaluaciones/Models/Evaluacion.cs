@@ -7,6 +7,5 @@
         public DateOnly FInicio { get; set; }
         public DateOnly FCierre { get; set; }
         public string Descripcion { get; set; }
-        public List<Evaluado> Evaluados { get; set; }
     }
 }

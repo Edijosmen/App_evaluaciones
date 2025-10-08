@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer\\-Net\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj": {}
+    "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj": {}
   },
   "projects": {
-    "D:\\Developer\\-Net\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj": {
+    "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer\\-Net\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj",
+        "projectUniqueName": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj",
         "projectName": "App_Evaluaciones",
-        "projectPath": "D:\\Developer\\-Net\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj",
-        "packagesPath": "C:\\Users\\edin-\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer\\-Net\\App_Evaluaciones\\App_Evaluaciones\\obj\\",
+        "projectPath": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\App_Evaluaciones.csproj",
+        "packagesPath": "C:\\Users\\Edijosmen\\.nuget\\packages\\",
+        "outputPath": "D:\\Developer\\-Net\\Playland\\App_Evaluaciones\\App_Evaluaciones\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\edin-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edijosmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -55,7 +66,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

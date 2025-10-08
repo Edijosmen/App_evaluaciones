@@ -1,4 +1,6 @@
-﻿namespace App_Evaluaciones.Models
+﻿using App_Evaluaciones.Models.Dto;
+
+namespace App_Evaluaciones.Models
 {
     public class Usuario
     {
@@ -11,6 +13,6 @@
         public string Grupo { get; set; }
         public string Password { get; set; }
         public string Rol { get; set; }
-        public List<Evaluacion> Evalaciones { get; set; }
+        public List<EvaluacionDto> Evalaciones { get; set; }
     }
 }
